@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sami9862
+- 👋 Hi, I’m Sami
 - 👀 I’m interested in Programming
 
 <!---
